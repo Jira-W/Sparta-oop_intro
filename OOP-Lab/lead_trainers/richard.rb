@@ -15,7 +15,7 @@ class Richard < Trainer
     puts "Number one Golfer in the uk"
     puts "I #{arg ? arg : "do not play"} golf"
     super()
-    
+
   end
 end
 x = Richard.new

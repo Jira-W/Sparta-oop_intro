@@ -5,7 +5,9 @@ class Sparta_global
   def self.company
     puts "Spartaaaa Hooo"
   end
-  
+  def super_golfer
+    puts "This is super golfer of SuperClass"
+  end
 
 end
 # Sparta_global.company

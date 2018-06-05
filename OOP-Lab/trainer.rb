@@ -15,6 +15,7 @@ class Trainer < Sparta_global
 
   def super_golfer
     puts "This is super golfer"
+    super
   end
 end
 
